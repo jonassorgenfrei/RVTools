@@ -8,6 +8,9 @@ Add the path (e.g. on windows: D:/Documents/Development/RVTools) to the environe
 
 # External Docs
 [Chapter 4 - Python](https://github.com/AcademySoftwareFoundation/OpenRV/blob/main/doc/rv-manuals/rv-reference-manual/rv-reference-manual-chapter-four.md)
+
 [Chapter 9 - Package System](https://github.com/AcademySoftwareFoundation/OpenRV/blob/main/doc/rv-manuals/rv-reference-manual/rv-reference-manual-chapter-nine.md)
+
 https://community.shotgridsoftware.com/t/what-are-some-useful-python-snippets-for-working-in-rv/102
+
 https://community.shotgridsoftware.com/t/how-do-i-write-my-first-package-in-rv/96
