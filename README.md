@@ -4,7 +4,7 @@ A collection of RND Tools for Autodesk's RV and [OpenRV](https://github.com/Acad
 Note: Currently it only contains an example plugin.
 
 # Installation
-Add the path (e.g. on windows: D:/Documents/Development/RVTools) to the environemnt variable *RV_SUPPORT_PATH*.
+Add the path (e.g. on windows: D:/Documents/Development/RVTools) to the environment variable *RV_SUPPORT_PATH*.
 
 # External Docs
 [Chapter 4 - Python](https://github.com/AcademySoftwareFoundation/OpenRV/blob/main/doc/rv-manuals/rv-reference-manual/rv-reference-manual-chapter-four.md)
